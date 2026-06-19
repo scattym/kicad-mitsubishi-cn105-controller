@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "cn105_smd")(type "KiCad")(uri "/home/matt/git/kicad-mitsubishi-cn105-controller/cn105/2026-06-18_08-16-24.kicad_sym")(options "")(descr ""))
+)
